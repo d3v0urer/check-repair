@@ -1,0 +1,52 @@
+/*
+Рабочие цвета #121212; #b7b7b7
+Рабочие шрифты Roboto; Gugi
+*/
+body {
+	margin: 0;
+	background-color: #b7b7b7;
+}
+header {
+	height: auto;
+	background-color: #121212;
+}
+.logo {
+	height: 22vh;
+	width: auto;
+}
+.logo a {
+	width: auto;
+}
+.container {
+	margin: 0 auto;
+	width: 1024px;
+}
+.tel {
+	color: #dad1ac;
+	text-decoration: none;
+	font-family: "Gugi";
+	font-size: 4vh;
+	text-align: right;
+	float: right;
+	margin: 7vh;
+	padding: 1vh;
+	border: 0.5vh solid;
+	border-radius: 3vh;
+	display: inline;
+}
+.h1 {
+	font-family: "Roboto", italic;
+	font-weight: 400;
+	font-size: 3vh;
+	display: inline;
+	margin: 0 auto;
+}
+.h1 h1 {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: italic;
+	color: #b7b7b7;
+	font-size: 7vh;
+	display: inline;
+	
+}
